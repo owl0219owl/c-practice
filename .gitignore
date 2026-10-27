@@ -1,0 +1,9 @@
+# ビルド成果物
+*.o
+*.out
+*.exe
+01_basics/*
+!01_basics/*.c
+02_algorithms/*
+!02_algorithms/*.c
+.vscode/
